@@ -1,0 +1,44 @@
+.App {
+  margin: 20px;
+}
+
+.row {
+  width: 100%;
+}
+
+.form {
+  width: 100%;
+}
+
+.hidden {
+  display: none!important;
+}
+
+.account-number {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.list-item {
+  flex-direction: column;
+}
+
+.list-form {
+  flex-direction: column;
+}
+
+.col-list {
+  text-align: center;
+}
+
+.col-list:first-child {
+  text-align: left;
+}
+
+.col-form {
+  text-align: left;
+}
+
+.col-form:first-child {
+  text-align: right;
+}
